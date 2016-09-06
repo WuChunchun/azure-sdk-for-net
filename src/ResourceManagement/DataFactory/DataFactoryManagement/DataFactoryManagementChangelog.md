@@ -1,6 +1,16 @@
 For additional details on features, see the full [Azure Data Factory Release Notes](https://azure.microsoft.com/en-us/documentation/articles/data-factory-release-notes). 
 
 ## Version 4.11.0
+_Release date: 2016.08.31_ 
+
+### Feature Additions
+
+* The following optional properties have been added to TextFormat:
+    * SkipLineCount
+    * FirstRowAsHeader 
+    * TreatEmptyAsNull
+
+## Version 4.11.0
 _Release date: 2016.09.06_
 
 ### Feature Additions

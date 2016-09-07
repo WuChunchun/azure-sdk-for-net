@@ -1,7 +1,7 @@
 For additional details on features, see the full [Azure Data Factory Release Notes](https://azure.microsoft.com/en-us/documentation/articles/data-factory-release-notes). 
 
 ## Version 4.10.0
-_Release date: 2016.08.09_ 
+_Release date: 2016.08.29_
 
 ### Feature Additions
 
@@ -11,6 +11,10 @@ _Release date: 2016.08.09_
     * OnPremisesCassandraTableDataset
 * The following copy source types have been added: 	
     * CassandraSource
+* Add WebServiceInputs property to AzureMLBatchExecutionActivity
+    * Enable passing multiple web service inputs to an Azure Machine Learning experiment
+
+### Feature Additions
 
 ## Version 4.9.1
 _Release date: 2016.07.05_ 

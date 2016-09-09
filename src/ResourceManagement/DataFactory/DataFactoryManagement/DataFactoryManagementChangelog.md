@@ -13,10 +13,11 @@ _Release date: 2016.09.13_
     * MongoDbSource
 
 ## Version 4.11.0
-_Release date: 2016.08.31_ 
+_Release date: 2016.09.06_
 
 ### Feature Additions
-
+* Add WebServiceInputs property to AzureMLBatchExecutionActivity
+    * Enable passing multiple web service inputs to an Azure Machine Learning experiment
 * The following optional properties have been added to TextFormat:
     * SkipLineCount
     * FirstRowAsHeader 
